@@ -1,0 +1,7 @@
+id,frecuencia,prod_cafe,prod_comida,prod_frias,prod_otros,atencion,pago_efectivo,pago_tarjeta,pago_transferencia,estudiante,edad,mejora
+1,Nunca,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,19,
+2,1 a 3 veces,1,0,0,0,1,1,0,0,TRUE,20,Más variedad de comida
+3,1 a 3 veces,0,1,1,0,2,0,1,0,FALSE,35,Agregaría más opciones saludables
+4,4 a 8 veces,1,1,0,1,3,0,0,1,TRUE,22,Mejoraría los tiempos de atención
+5,Más de 8 veces,1,0,1,1,4,1,1,0,TRUE,21,Pondría más mesas
+6,Más de 8 veces,0,1,1,0,5,0,1,1,FALSE,42,Mejoraría los precios
